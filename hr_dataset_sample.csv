@@ -1,0 +1,51 @@
+Age,Attrition,Department,DistanceFromHome,Education,EducationField,Gender,JobSatisfaction,MonthlyIncome,NumCompaniesWorked,OverTime,PercentSalaryHike,YearsAtCompany,YearsInCurrentRole,YearsSinceLastPromotion
+41,Yes,Sales,1,2,Life Sciences,Female,4,5993,8,Yes,11,6,4,0
+49,No,Research & Development,8,1,Life Sciences,Male,2,5130,1,No,23,10,7,1
+37,Yes,Research & Development,2,2,Other,Male,1,2090,6,Yes,15,0,0,0
+33,No,Research & Development,3,4,Life Sciences,Female,3,2909,1,Yes,11,8,7,3
+27,No,Research & Development,2,1,Medical,Male,2,3468,9,No,12,2,2,2
+32,No,Research & Development,2,2,Life Sciences,Male,4,3068,0,No,13,7,7,3
+59,No,Research & Development,3,3,Medical,Female,1,2670,4,Yes,20,1,0,0
+30,No,Research & Development,24,1,Life Sciences,Male,3,2693,1,No,22,1,0,0
+38,No,Research & Development,23,3,Life Sciences,Male,3,9526,0,No,21,9,7,0
+36,No,Research & Development,27,3,Medical,Male,3,5237,6,No,13,7,7,6
+35,No,Research & Development,16,3,Medical,Male,3,2426,0,No,14,5,4,0
+31,No,Research & Development,22,1,Life Sciences,Male,4,4193,0,No,17,2,2,2
+32,No,Research & Development,1,2,Life Sciences,Male,4,2911,0,Yes,15,5,4,0
+22,No,Research & Development,2,1,Medical,Male,4,2661,4,No,16,2,1,1
+24,Yes,Sales,6,2,Life Sciences,Female,3,2028,1,Yes,12,0,0,0
+29,No,Research & Development,3,2,Life Sciences,Male,3,2458,1,No,12,7,6,0
+31,Yes,Sales,1,3,Life Sciences,Male,4,2562,6,No,17,1,0,0
+44,No,Human Resources,2,2,Human Resources,Male,1,4046,0,No,15,5,3,1
+34,Yes,Research & Development,6,2,Life Sciences,Male,2,3167,5,Yes,14,0,0,0
+58,No,Research & Development,2,1,Medical,Male,3,2432,1,No,20,10,9,8
+34,No,Sales,23,3,Life Sciences,Male,3,3894,0,No,12,4,3,1
+25,Yes,Sales,1,2,Medical,Female,2,2625,1,Yes,11,1,1,0
+36,No,Research & Development,1,3,Medical,Male,4,9980,4,No,13,7,5,2
+27,Yes,Sales,1,1,Marketing,Female,4,3165,2,Yes,11,0,0,0
+41,No,Research & Development,1,4,Life Sciences,Male,2,9197,2,No,14,5,3,2
+28,No,Research & Development,2,1,Medical,Male,3,2178,0,No,20,2,2,0
+29,Yes,Sales,1,2,Marketing,Male,3,4201,4,Yes,13,1,0,0
+35,No,Research & Development,2,3,Life Sciences,Male,3,6897,2,No,16,7,6,5
+27,Yes,Sales,9,1,Marketing,Female,3,2903,1,Yes,13,0,0,0
+32,No,Research & Development,5,3,Medical,Male,2,8706,3,No,15,8,7,5
+33,Yes,Sales,6,1,Life Sciences,Male,2,3347,4,Yes,20,1,0,0
+29,Yes,Sales,7,2,Life Sciences,Male,4,2540,3,Yes,12,1,1,1
+30,No,Research & Development,1,3,Life Sciences,Male,3,5754,0,No,14,6,5,3
+34,No,Research & Development,19,2,Life Sciences,Female,3,3887,1,No,16,7,7,1
+41,Yes,Sales,1,3,Technical Degree,Male,3,3600,5,Yes,13,0,0,0
+29,No,Sales,4,2,Marketing,Male,3,4474,4,No,14,5,4,3
+32,Yes,Research & Development,5,3,Other,Female,2,1678,6,Yes,11,0,0,0
+31,No,Research & Development,9,1,Life Sciences,Male,2,9980,6,No,20,7,5,3
+37,No,Research & Development,1,3,Life Sciences,Male,3,5780,2,No,11,5,3,1
+36,No,Research & Development,1,3,Life Sciences,Male,4,9265,3,No,17,9,7,0
+42,Yes,Sales,4,2,Marketing,Female,3,3900,4,Yes,10,0,0,0
+38,No,Research & Development,3,3,Medical,Male,3,7410,1,No,18,9,7,2
+36,No,Research & Development,1,2,Life Sciences,Male,4,4532,2,No,15,6,5,4
+29,Yes,Sales,13,2,Technical Degree,Female,2,2500,1,Yes,12,1,0,0
+34,No,Research & Development,3,3,Life Sciences,Male,3,5732,0,No,14,6,4,3
+44,No,Research & Development,5,3,Life Sciences,Male,3,9480,0,No,19,9,8,7
+26,Yes,Sales,1,2,Marketing,Male,3,2300,3,Yes,13,0,0,0
+39,No,Research & Development,1,3,Life Sciences,Female,3,8200,1,No,17,8,7,4
+28,Yes,Sales,6,1,Life Sciences,Female,1,2050,2,Yes,11,1,0,0
+33,No,Research & Development,4,3,Medical,Male,4,6890,1,No,16,5,4,2
